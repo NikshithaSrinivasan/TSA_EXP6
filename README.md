@@ -203,18 +203,22 @@ plt.grid(True)
 plt.show()
 ```
 ### OUTPUT:
-<img width="381" height="332" alt="image" src="https://github.com/user-attachments/assets/ff62d1d9-e401-4d3f-b956-9332b585f388" />
+<img width="545" height="387" alt="image" src="https://github.com/user-attachments/assets/b8564b53-5d63-4ab4-a839-18984e5345b8" />
 
-<img width="441" height="326" alt="image" src="https://github.com/user-attachments/assets/57ed4ef6-90d3-484d-9396-47bce5f2dd22" />
+<img width="780" height="319" alt="image" src="https://github.com/user-attachments/assets/5a32a962-2dae-4e42-b7c3-e03e8406bc72" />
+
+<img width="680" height="308" alt="image" src="https://github.com/user-attachments/assets/b3cf4567-542f-43b6-a8aa-d08f4507e5b1" />
+
+<img width="484" height="359" alt="image" src="https://github.com/user-attachments/assets/413c9eaa-3673-434a-861f-dbe48b6b75ef" />
 
 
 TEST_PREDICTION
-<img width="393" height="174" alt="image" src="https://github.com/user-attachments/assets/71ab529b-fd56-4a47-866d-eac3cd3c4bd7" />
+<img width="752" height="323" alt="image" src="https://github.com/user-attachments/assets/eb7c5e11-2eaa-4f01-999e-e62ded674992" />
 
 
 
 FINAL_PREDICTION
-<img width="380" height="265" alt="image" src="https://github.com/user-attachments/assets/9af98009-a86a-4c95-aa04-002304532221" />
+<img width="685" height="310" alt="image" src="https://github.com/user-attachments/assets/226c5dca-c45c-4e0a-9eaa-53a296619514" />
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
